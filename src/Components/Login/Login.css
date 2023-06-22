@@ -1,0 +1,101 @@
+.form-container{
+    width: 500px;
+    height: 620px;
+    margin: 100px auto;
+    background: #FFFFFF;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    box-shadow:-10px 10px 10px  #FFE0B3;
+}
+.form-title{
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 42px;
+    letter-spacing: 0.0025em;
+    color: #2A414F;
+    text-align: center;
+    margin: 38px 0px 30px;
+}
+.form-info{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.form-control label{
+    display: block;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.0015em;
+    margin-bottom: 10px;
+    color: #2A414F;
+}
+.form-control input{
+    width: 415px;
+    height: 55px;
+    border: 1px solid #95A0A7;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-size: 17px;
+}
+
+.login-btn{
+    width: 415px;
+    height: 55px;
+    background: rgba(255, 153, 0, 0.3);
+    border-radius: 5px;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+    color: #0E161A;
+    margin-top: 24px;
+}
+
+.signup{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.0025em;
+    color: #2A414F;
+    text-align: center;
+}
+
+.line_or{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 22px;
+    margin-top: 40px;
+}
+.line_or small{
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+    color: #95A0A7;
+}
+.signup-link{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.0025em;
+    color: #FF9900;
+}
+.line{
+    width: 145px;
+    height: 0px;
+}
+
+.google-btn{
+    width: 415px;
+    height: 55px;
+    border: 1px solid #95A0A7;
+    border-radius: 5px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+    color: #2A414F;
+    margin-top: 30px;
+}

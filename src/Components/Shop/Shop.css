@@ -1,0 +1,28 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    gap: 40px;
+}
+.products-container{
+    margin-top: 120px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 45px;
+    padding-left: 140px;
+}
+.cart-container{
+    
+}
+
+.review-btn{
+    width: 232px;
+    height: 48px;
+    background-color:#FF9900;
+    border-radius: 8px;
+    color: white;
+    font-size: 17px;
+    font: 400;
+    line-height: 20px;
+    letter-spacing: 0.5%;
+}
+

@@ -1,0 +1,9 @@
+.form-container-singup{
+    width: 500px;
+    height: 720px;
+    margin: 100px auto;
+    background: #FFFFFF;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    box-shadow: -10px 10px 10px #FFE0B3;
+}

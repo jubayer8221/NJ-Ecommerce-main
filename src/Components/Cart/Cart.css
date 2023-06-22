@@ -1,0 +1,59 @@
+
+.order-section{
+    z-index: 100;
+    width: 300px;
+    height: 650px;
+    position: fixed;
+    background-color: rgba(255, 153, 0, 0.3);
+    margin-top: 80px;
+}
+.order-cart{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #1C2B35;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.order-info{
+    margin-left: 23px;
+    margin-bottom: 57px;
+}
+.order-info p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #2A414F;
+    margin-bottom: 25px;
+}
+
+/*clear cart button style*/
+.button{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    
+}
+.clear_btn{
+    width: 232px;
+    height: 48px;
+    color:#FFFFFF;
+    font-size: 17px;
+    line-height: 20px;
+    font: 400;
+    letter-spacing: 0.005em;
+    background: #FF3030;
+    border-radius: 4px;
+}
+.trash_icon{
+    color:#FFFFFF;
+    width: 17px;
+    height: 20px;
+}
+
+.review_btn{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100%;
+}

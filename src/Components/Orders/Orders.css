@@ -1,0 +1,15 @@
+.shipping-btn{
+    width: 232px;
+    height: 48px;
+    color:#FFFFFF;
+    font-size: 17px;
+    line-height: 20px;
+    font: 400;
+    letter-spacing: 0.005em;
+    background:#FF9900;
+    border-radius: 4px;
+    margin-bottom: 40px;
+}
+.orders-container{
+    margin-top: 80px;
+}
